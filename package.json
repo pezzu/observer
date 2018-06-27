@@ -1,0 +1,17 @@
+{
+  "name": "observer",
+  "version": "1.0.0",
+  "description": "External html monitoring tool",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Peter Sukhenko",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.2.0"
+  },
+  "dependencies": {
+    "puppeteer": "^1.5.0"
+  }
+}
